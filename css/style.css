@@ -1,0 +1,4 @@
+/* Put your CSS here */
+.task.done {
+  text-decoration: line-through;
+}
